@@ -46,13 +46,15 @@ firebase
 
 ### Dynamically updating the Database as the student is marked -
 
-[![3.png](https://i.postimg.cc/JzJNrdzk/3.png)](https://postimg.cc/mPLzVjML)
+![final 01](https://github.com/user-attachments/assets/868b2704-f402-43f2-9aa5-6ebe5e51fcf8)
 
 ### Showing that the student is marked -
 
-[![4.png](https://i.postimg.cc/Sst27WK4/4.png)](https://postimg.cc/TLg3T5mN)
+![final 02](https://github.com/user-attachments/assets/89b6cdec-cced-4ed3-9cff-762483ffab89)
+
 
 ### Displaying that the student is already marked after a specific interval of time -
 
-[![5.png](https://i.postimg.cc/J724Tr51/5.png)](https://postimg.cc/MX1SH8L4)
+![final 03](https://github.com/user-attachments/assets/30c8a183-8d03-4f08-8331-3798ec2a428c)
+
 

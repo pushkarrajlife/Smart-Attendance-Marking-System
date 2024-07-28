@@ -42,19 +42,20 @@ firebase
 
 ### Face Recognition & retrieving and displaying student's data from the Database -
 
-[![2.png](https://i.postimg.cc/X7shKqf8/2.png)](https://postimg.cc/fJ0BDwgt)
+![final 01](https://github.com/user-attachments/assets/4f4cb162-2c27-449d-8e2a-abf491a68732)
+
 
 ### Dynamically updating the Database as the student is marked -
 
-![final 01](https://github.com/user-attachments/assets/868b2704-f402-43f2-9aa5-6ebe5e51fcf8)
+[![3.png](https://i.postimg.cc/JzJNrdzk/3.png)](https://postimg.cc/mPLzVjML)
 
 ### Showing that the student is marked -
 
-![final 02](https://github.com/user-attachments/assets/89b6cdec-cced-4ed3-9cff-762483ffab89)
+![final 02](https://github.com/user-attachments/assets/bf4ad32b-97ed-4af9-aeca-15952475abb6)
 
 
 ### Displaying that the student is already marked after a specific interval of time -
 
-![final 03](https://github.com/user-attachments/assets/30c8a183-8d03-4f08-8331-3798ec2a428c)
+![final 03](https://github.com/user-attachments/assets/05e64b7c-409d-4e43-afd4-c7129b293bfa)
 
 

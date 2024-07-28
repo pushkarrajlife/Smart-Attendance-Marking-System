@@ -34,25 +34,3 @@ firebase
 * Adding the images to the database.
 * Updating the Real-time Database accordingly.
 
-## Demo of the System :
-
-### Database before starting the System -
-
-[![1.png](https://i.postimg.cc/sX8dJXdq/1.png)](https://postimg.cc/G8k5Lbpx)
-
-### Face Recognition & retrieving and displaying student's data from the Database -
-
-[![2.png](https://i.postimg.cc/X7shKqf8/2.png)](https://postimg.cc/fJ0BDwgt)
-
-### Dynamically updating the Database as the student is marked -
-
-[![3.png](https://i.postimg.cc/JzJNrdzk/3.png)](https://postimg.cc/mPLzVjML)
-
-### Showing that the student is marked -
-
-[![4.png](https://i.postimg.cc/Sst27WK4/4.png)](https://postimg.cc/TLg3T5mN)
-
-### Displaying that the student is already marked after a specific interval of time -
-
-[![5.png](https://i.postimg.cc/J724Tr51/5.png)](https://postimg.cc/MX1SH8L4)
-
